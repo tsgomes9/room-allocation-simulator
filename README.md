@@ -1,4 +1,4 @@
-##Notas de Estudo
+## Notas de Estudo
 Este projeto faz parte do meu aprendizado de fundamentos de Java e não é destinado a produção. Ele pode ser expandido no futuro para incluir funcionalidades mais avançadas, como persistência de dados em arquivos ou banco de dados.
 
 ---
