@@ -1,0 +1,21 @@
+package application;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		Scanner sc = new Scanner(System.in);
+		
+		int [] room = new int[10];
+		int quantityRented; 
+		
+		System.out.println("How many rooms will be rented? ");
+		quantityRented = sc.nextInt();
+		
+		sc.close();
+
+	}
+
+}

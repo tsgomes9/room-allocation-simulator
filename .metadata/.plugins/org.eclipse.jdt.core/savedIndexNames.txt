@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\DELL\eclipse-workspace\Vetores_07 - Desafio Pensionato\.metadata\.plugins\org.eclipse.jdt.core
+1125539192.index
+2238323608.index
+1865797976.index
